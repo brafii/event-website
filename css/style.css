@@ -82,3 +82,37 @@ body{
 .footer-right-copy a:hover{
     color: var(--navbar-hover-color);
 }
+
+/* Speakers Styles */
+.speakers-banner{
+    background: linear-gradient(to right, rgb(161, 211, 176), rgb(246, 241, 211));
+}
+.speakers-banner h1{
+    color: var(--navbar-hover-color);
+}
+.speakers-banner p{
+    color: var(--event-color1);
+}
+.speakers-all h5{
+    color: var(--navbar-hover-color);
+    font-weight: 500;
+}
+.speakers-all h6{
+    color: var(--event-color1);
+    font-weight: 500;
+}
+.speakers-all p{
+    color: var(--event-color2);
+}
+.speakers-all .card{
+    /* width: 60%; */
+    margin-top: 80px;
+}
+.card img{
+    width: 70%;
+    margin-top: -130px;
+    margin-left: 40px;
+}
+.card p{
+    color: var(--navbar-hover-color);
+}
