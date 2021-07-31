@@ -116,3 +116,27 @@ body{
 .card p{
     color: var(--navbar-hover-color);
 }
+
+/* Registration Styles */
+.registration h5{
+    color: var(--navbar-hover-color);
+    font-weight: 500;
+}
+.registration h6{
+    color: var(--event-color1);
+    font-weight: 700;
+}
+.registration p{
+    color: var(--event-color1);
+}
+.registration label{
+    color: var(--navbar-hover-color);
+}
+.purchase-button{
+    background-color: var(--navbar-hover-color);
+    color: #fff;
+    text-transform: uppercase;
+}
+.purchase-button:hover{
+    color: #fff;
+}
