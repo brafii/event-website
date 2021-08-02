@@ -169,3 +169,8 @@ tbody td{
 tbody h6{
     color: var(--navbar-hover-color);
 }
+
+/* Venue */
+.content-venue h4{
+    color: var(--navbar-hover-color);
+}
