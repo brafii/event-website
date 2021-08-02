@@ -140,3 +140,32 @@ body{
 .purchase-button:hover{
     color: #fff;
 }
+
+/* Schedule Styles */
+td{
+    width: 42%;
+}
+tbody td {
+    border-top: 1px solid rgb(223, 226, 229);
+}
+thead th{
+    font-size: 1.4em;
+    color: var(--navbar-hover-color);
+    font-weight: lighter;
+}
+thead td{
+    font-size: .9em;
+    color: var(--navbar-hover-color);
+}
+tbody th{
+    font-size: .9em;
+    color: var(--event-color1);
+    font-weight: 500;
+    float: right;
+}
+tbody td{
+    font-size: .9em;
+}
+tbody h6{
+    color: var(--navbar-hover-color);
+}
