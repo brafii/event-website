@@ -176,12 +176,22 @@ tbody h6{
 }
 
 /* Media Queries */
+/* Mobile Screens */
 @media only screen and (max-width: 576px) {
     
     .my-frame{
         width: 100%;
     }
 
-
 }
+
+/* Desktop Screens */
+@media only screen and (max-width: 768px) {
+    
+    .my-frame{
+        width: 100%;
+    }
+    
+}
+  
   
