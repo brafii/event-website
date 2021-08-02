@@ -178,8 +178,8 @@ tbody h6{
 /* Media Queries */
 @media only screen and (max-width: 576px) {
     
-    body {
-      background-color: lightblue;
+    .my-frame{
+        width: 100%;
     }
 
 
