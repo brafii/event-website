@@ -174,3 +174,14 @@ tbody h6{
 .content-venue h4{
     color: var(--navbar-hover-color);
 }
+
+/* Media Queries */
+@media only screen and (max-width: 576px) {
+    
+    body {
+      background-color: lightblue;
+    }
+
+
+}
+  
